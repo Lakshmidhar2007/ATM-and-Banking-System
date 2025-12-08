@@ -98,7 +98,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 ```PACKAGE DIAGRAM```
 
-![package](./ATM%20package.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4c47da2-ae1b-49d8-910d-7604d4e279c8" />
+
 
 
 
