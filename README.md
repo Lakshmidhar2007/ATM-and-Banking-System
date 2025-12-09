@@ -98,7 +98,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 ```PACKAGE DIAGRAM```
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4c47da2-ae1b-49d8-910d-7604d4e279c8" />
+<img width="507" height="438" alt="image" src="https://github.com/user-attachments/assets/916037f2-7d3e-4ab4-ab52-9306e20b84b7" />
+
 
 
 
